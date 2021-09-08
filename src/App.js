@@ -20,7 +20,7 @@ function App() {
   /////////////////////////
 
   // API URL
-  const url = "https://am-628-django-todos.herokuapp.com/todos/";
+  const url = "https://nb-django-lab-api.herokuapp.com/todos/";
 
   // State to Hold List of Todos
   const [posts, setPosts] = useState([]);
